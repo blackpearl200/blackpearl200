@@ -5,19 +5,15 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Machine Learning**, **Web Development**, and **Cloud Computing**.
-- 💻 I enjoy working on **Python**, **JavaScript**, and **C++** projects.
+- 💻 I enjoy working on **Python**, **C**, and **C++** projects.
 - 🎯 My goal is to create impactful software solutions that make life easier.
-- 📚 I'm a lifelong learner, always curious about **AI**, **Blockchain**, and **DevOps** tools.
+- 📚 I'm a lifelong learner, always curious about **AI**, **Flask**, etc..
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: Flask, Django, React
-- **Tools**: Docker, Git, Kubernetes
-- **Databases**: PostgreSQL, MongoDB
-- **Cloud**: AWS, Azure
+- **Languages**: Python, C, C++
+- **Databases**: MySQL
 
 ---
 
@@ -30,14 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 Here are a few projects I'm proud of:
 - [Currency Converter](https://github.com/blackpearl200/currency-converter) - A real-time currency converter using Tkinter and forex-python.
 - [Face Recognition App](https://github.com/blackpearl200/face-recognition-app) - Face detection and recognition using OpenCV and dlib.
-- [E-commerce Website](https://github.com/blackpearl200/ecommerce-website) - A fully-functional e-commerce platform built with Django.
-
----
-
-## 🌟 Highlights
-- 🏆 **Open Source**: Actively contributing to open source projects.
-- ✍️ **Blogs**: Sharing knowledge through technical blogs on [Medium](https://medium.com/).
-- 🧑‍🏫 **Mentoring**: Helping others learn programming and software development.
+- [Enhanced Image Editor]([https://github.com/blackpearl200/ecommerce-website](https://github.com/blackpearl200/image-editor)) - A fully-functional e-commerce platform built with Django.
 
 ---
 
