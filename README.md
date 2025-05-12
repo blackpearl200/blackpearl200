@@ -42,10 +42,8 @@ Here are a few projects I'm proud of:
 ---
 
 ## 📫 Let's Connect!
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Website**: [Your Portfolio Website](https://your-website.com)
-
+- **Email**: [virsarvesh@gmail.com](mailto:your_email@example.com)
+- **LinkedIn**: [www.linkedin.com/in/sarvesh-halvadia](https://linkedin.com/in/yourprofile)
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 😊
