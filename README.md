@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 Here are a few projects I'm proud of:
 - [Currency Converter](https://github.com/blackpearl200/currency-converter) - A real-time currency converter using Tkinter and forex-python.
 - [Face Recognition App](https://github.com/blackpearl200/face-recognition-app) - Face detection and recognition using OpenCV and dlib.
-- [Enhanced Image Editor]([https://github.com/blackpearl200/ecommerce-website](https://github.com/blackpearl200/image-editor)) - A fully-functional e-commerce platform built with Django.
+- [Enhanced Image Editor](https://github.com/blackpearl200/image-editor) - A fully-functional e-commerce platform built with Django.
 
 ---
 
