@@ -1,6 +1,8 @@
-# Hi there, I'm Black Pearl! 👋
+# Hi there, I'm Sarvesh Halvadia! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions, exploring new technologies, and contributing to open-source projects.
+🌟 Welcome! Ever wonder what the buzz around smart technologies is all about? I’m here, navigating the fascinating world of Electronics and Communication Engineering with an avid interest in making programming user-friendly. At the heart of technology, you'll find me fiddling with codes and circuit boards. 🛠️💡
+
+Profoundly proficient in C/C++, Python, and MySQL, my education isn’t just about earning a degree—it’s about creating a future where technology is accessible and effective. Each project and lab experiment pushes me closer to becoming a tech maestro who bridges gaps between complex databases and everyday usability.
 
 ---
 
