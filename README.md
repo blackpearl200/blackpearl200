@@ -1,40 +1,51 @@
 # Hi there, I'm Sarvesh Halvadia! 👋
 
-🌟 Welcome! Ever wonder what the buzz around smart technologies is all about? I’m here, navigating the fascinating world of Electronics and Communication Engineering with an avid interest in making programming user-friendly. At the heart of technology, you'll find me fiddling with codes and circuit boards. 🛠️💡
-
-Profoundly proficient in C/C++, Python, and MySQL, my education isn’t just about earning a degree—it’s about creating a future where technology is accessible and effective. Each project and lab experiment pushes me closer to becoming a tech maestro who bridges gaps between complex databases and everyday usability.
+🌟 **Welcome!** Ever wonder what the buzz around smart technologies is all about? I’m diving deep into the fascinating world of **Electronics and Communication Engineering**, blending it with my passion for making programming user-friendly. Whether it’s **fiddling with code** 🛠️ or **tinkering with circuit boards** 💡, I’m on a mission to make technology accessible and impactful.
 
 ---
 
 ## 🚀 About Me
-- 💻 I enjoy working on **Python**, **C**, and **C++** projects.
-- 🎯 My goal is to create impactful software solutions that make life easier.
-- 📚 I'm a lifelong learner, always curious about **AI**, **Flask**, etc..
+- 💻 I love crafting projects in **Python**, **C**, and **C++**.
+- 🎯 My goal is to create **software solutions** that solve real-world problems and make life easier.
+- 📚 Lifelong learner exploring **AI**, **Flask**, and **full-stack development**.
+- 🌟 I believe in using technology to **bridge gaps** between complex systems and everyday usability.
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, C, C++
-- **Databases**: MySQL
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-language-red)
+![C++](https://img.shields.io/badge/C++-language-red)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-database-orange?logo=mysql&logoColor=white)
 
 ---
 
 ## 🔥 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackpearl200&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackpearl200&layout=compact&theme=radical)
 
 ---
 
 ## 💼 Projects
-Here are a few projects I'm proud of:
-- [Currency Converter](https://github.com/blackpearl200/currency-converter) - A real-time currency converter using Tkinter and forex-python.
-- [Face Recognition App](https://github.com/blackpearl200/face-recognition-app) - Face detection and recognition using OpenCV and dlib.
-- [Enhanced Image Editor](https://github.com/blackpearl200/image-editor) - A fully-functional e-commerce platform built with Django.
+### 🌟 Featured Projects
+- [**Currency Converter**](https://github.com/blackpearl200/currency-converter)  
+  A real-time currency converter built using **Tkinter** and **forex-python**.
+  
+- [**Face Recognition App**](https://github.com/blackpearl200/face-recognition-app)  
+  A face detection and recognition application using **OpenCV** and **dlib**.
+
+- [**Enhanced Image Editor**](https://github.com/blackpearl200/image-editor)  
+  An advanced image editor with features like cropping, filters, and background removal using **Python** and **OpenCV**.
 
 ---
 
 ## 📫 Let's Connect!
-- **Email**: [virsarvesh@gmail.com](mailto:your_email@example.com)
-- **LinkedIn**: [www.linkedin.com/in/sarvesh-halvadia](https://linkedin.com/in/yourprofile)
+- **Email**: [virsarvesh@gmail.com](mailto:virsarvesh@gmail.com)
+- **LinkedIn**: [Sarvesh Halvadia](https://linkedin.com/in/sarvesh-halvadia)  
+
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 😊
+💡 Thank you for visiting my profile! Feel free to explore my repositories, star the ones you like ⭐, and connect with me. Let’s build something amazing together! 😊
