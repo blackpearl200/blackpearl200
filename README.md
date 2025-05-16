@@ -31,11 +31,11 @@
 
 ## 💼 Projects
 ### 🌟 Featured Projects
-- [**Currency Converter**](https://github.com/blackpearl200/currency-converter)  
-  A real-time currency converter built using **Tkinter** and **forex-python**.
+- [**Text to Speech Converter**](https://github.com/blackpearl200/text-to-speech-converter)  
+  A real-time Text to Speech converter built using **Tkinter** and **Google's Text-to-Speech API**.
   
-- [**Face Recognition App**](https://github.com/blackpearl200/face-recognition-app)  
-  A face detection and recognition application using **OpenCV** and **dlib**.
+- [**File Organizer**](https://github.com/blackpearl200/file_organizer)  
+  A simple file organizer application built using a simple **python** code.
 
 - [**Enhanced Image Editor**](https://github.com/blackpearl200/image-editor)  
   An advanced image editor with features like cropping, filters, and background removal using **Python** and **OpenCV**.
