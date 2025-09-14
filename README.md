@@ -1,4 +1,4 @@
-# Hi there, I'm Sarvesh Halvadia! 👋
+# Hi there, I'm Sarvesh Halvadia!👋
 
 🌟 **Welcome!** Ever wonder what the buzz around smart technologies is all about? I’m diving deep into the fascinating world of **Electronics and Communication Engineering**, blending it with my passion for making programming user-friendly. Whether it’s **fiddling with code** 🛠️ or **tinkering with circuit boards** 💡, I’m on a mission to make technology accessible and impactful.
 
