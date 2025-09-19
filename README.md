@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 I love crafting projects in **Python**, **C**, and **C++**.
+- 💻 I love crafting projects in **Python**, **C**, **Linux** and **C++**.
 - 🎯 My goal is to create **software solutions** that solve real-world problems and make life easier.
 - 📚 Lifelong learner exploring **AI**, **Flask**, and **full-stack development**.
 - 🌟 I believe in using technology to **bridge gaps** between complex systems and everyday usability.
